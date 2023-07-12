@@ -1,2 +1,2 @@
 # landfillDataCleanup
-cleaning a couple of years of landfill data 
+Scripts to show my work for cleaning data. 
